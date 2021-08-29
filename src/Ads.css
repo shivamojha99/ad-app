@@ -7,12 +7,12 @@
     margin-bottom: 50px;
   }
   
-  /* On mouse-over, add a deeper shadow */
+ 
   .card:hover {
     box-shadow: 0 8px 16px 0 rgba(24, 105, 197, 0.87);
   }
   
-  /* Add some padding inside the card container */
+
   .lower {
     padding: 2px 16px;
   }
